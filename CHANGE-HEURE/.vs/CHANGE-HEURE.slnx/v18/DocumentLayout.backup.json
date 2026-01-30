@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mlehay\\source\\repos\\CHANGE-HEURE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C92E5A60-D5B3-40C4-BA4D-427E03F9AD82}|CHANGE-HEURE\\CHANGE-HEURE.csproj|c:\\users\\mlehay\\source\\repos\\change-heure\\change-heure\\change-heure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92E5A60-D5B3-40C4-BA4D-427E03F9AD82}|CHANGE-HEURE\\CHANGE-HEURE.csproj|solutionrelative:change-heure\\change-heure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92E5A60-D5B3-40C4-BA4D-427E03F9AD82}|CHANGE-HEURE\\CHANGE-HEURE.csproj|C:\\Users\\mlehay\\source\\repos\\CHANGE-HEURE\\change-heure\\change-heure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C92E5A60-D5B3-40C4-BA4D-427E03F9AD82}|CHANGE-HEURE\\CHANGE-HEURE.csproj|solutionrelative:change-heure\\change-heure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92E5A60-D5B3-40C4-BA4D-427E03F9AD82}|CHANGE-HEURE\\CHANGE-HEURE.csproj|C:\\Users\\mlehay\\source\\repos\\CHANGE-HEURE\\change-heure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92E5A60-D5B3-40C4-BA4D-427E03F9AD82}|CHANGE-HEURE\\CHANGE-HEURE.csproj|solutionrelative:change-heure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92E5A60-D5B3-40C4-BA4D-427E03F9AD82}|CHANGE-HEURE\\CHANGE-HEURE.csproj|C:\\Users\\mlehay\\source\\repos\\CHANGE-HEURE\\change-heure\\change-heure.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92E5A60-D5B3-40C4-BA4D-427E03F9AD82}|CHANGE-HEURE\\CHANGE-HEURE.csproj|solutionrelative:change-heure\\change-heure.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Change-Heure.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mlehay\\source\\repos\\CHANGE-HEURE\\CHANGE-HEURE\\Change-Heure.Designer.cs",
+              "RelativeDocumentMoniker": "CHANGE-HEURE\\Change-Heure.Designer.cs",
+              "ToolTip": "C:\\Users\\mlehay\\source\\repos\\CHANGE-HEURE\\CHANGE-HEURE\\Change-Heure.Designer.cs",
+              "RelativeToolTip": "CHANGE-HEURE\\Change-Heure.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:43:48.601Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Change-Heure.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mlehay\\source\\repos\\CHANGE-HEURE\\CHANGE-HEURE\\Change-Heure.cs",
+              "RelativeDocumentMoniker": "CHANGE-HEURE\\Change-Heure.cs",
+              "ToolTip": "C:\\Users\\mlehay\\source\\repos\\CHANGE-HEURE\\CHANGE-HEURE\\Change-Heure.cs [Design]",
+              "RelativeToolTip": "CHANGE-HEURE\\Change-Heure.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:51:09.152Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mlehay\\source\\repos\\CHANGE-HEURE\\CHANGE-HEURE\\Program.cs",
+              "RelativeDocumentMoniker": "CHANGE-HEURE\\Program.cs",
+              "ToolTip": "C:\\Users\\mlehay\\source\\repos\\CHANGE-HEURE\\CHANGE-HEURE\\Program.cs",
+              "RelativeToolTip": "CHANGE-HEURE\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:10:44.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Change-Heure.cs",
+              "DocumentMoniker": "C:\\Users\\mlehay\\source\\repos\\CHANGE-HEURE\\CHANGE-HEURE\\Change-Heure.cs",
+              "RelativeDocumentMoniker": "CHANGE-HEURE\\Change-Heure.cs",
+              "ToolTip": "C:\\Users\\mlehay\\source\\repos\\CHANGE-HEURE\\CHANGE-HEURE\\Change-Heure.cs",
+              "RelativeToolTip": "CHANGE-HEURE\\Change-Heure.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAowMsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:03:27.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mlehay\\source\\repos\\TimeChangeService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E98B2-4127-4E20-BD32-9581EDAAC9BA}|TimeChangeService\\TimeChangeService.csproj|c:\\users\\mlehay\\source\\repos\\timechangeservice\\timechangeservice\\timechangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4E98B2-4127-4E20-BD32-9581EDAAC9BA}|TimeChangeService\\TimeChangeService.csproj|solutionrelative:timechangeservice\\timechangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E98B2-4127-4E20-BD32-9581EDAAC9BA}|TimeChangeService\\TimeChangeService.csproj|C:\\Users\\mlehay\\source\\repos\\TimeChangeService\\timechangeservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4E98B2-4127-4E20-BD32-9581EDAAC9BA}|TimeChangeService\\TimeChangeService.csproj|solutionrelative:timechangeservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E98B2-4127-4E20-BD32-9581EDAAC9BA}|TimeChangeService\\TimeChangeService.csproj|C:\\Users\\mlehay\\source\\repos\\TimeChangeService\\timechangeservice\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C4E98B2-4127-4E20-BD32-9581EDAAC9BA}|TimeChangeService\\TimeChangeService.csproj|solutionrelative:timechangeservice\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeChangeService.cs",
+              "DocumentMoniker": "C:\\Users\\mlehay\\source\\repos\\TimeChangeService\\TimeChangeService\\TimeChangeService.cs",
+              "RelativeDocumentMoniker": "TimeChangeService\\TimeChangeService.cs",
+              "ToolTip": "C:\\Users\\mlehay\\source\\repos\\TimeChangeService\\TimeChangeService\\TimeChangeService.cs",
+              "RelativeToolTip": "TimeChangeService\\TimeChangeService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAuwFUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:51:33.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mlehay\\source\\repos\\TimeChangeService\\TimeChangeService\\Program.cs",
+              "RelativeDocumentMoniker": "TimeChangeService\\Program.cs",
+              "ToolTip": "C:\\Users\\mlehay\\source\\repos\\TimeChangeService\\TimeChangeService\\Program.cs",
+              "RelativeToolTip": "TimeChangeService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:51:33.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectInstaller.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mlehay\\source\\repos\\TimeChangeService\\TimeChangeService\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "TimeChangeService\\ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\utilisateur\\source\\repos\\TimeChangeService\\TimeChangeService\\ProjectInstaller.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\utilisateur\\source\\repos\\TimeChangeService\\TimeChangeService\\ProjectInstaller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:51:33.199Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
